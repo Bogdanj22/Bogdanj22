@@ -1,6 +1,6 @@
 # Hi there, I'm Bogdan 👋
 
-Welcome to my GitHub profile! I'm an aspiring DevOps engineer with experience in AWS, Terraform, Docker, Kubernetes and CI/CD pipelines. Skilled in infrastructure automation, container orchestration, and monitoring solutions. Passionate about improving deployment workflows and ensuring secure, scalable environments and Cloud technologies.
+Welcome to my GitHub profile! I'm an aspiring DevOps/Cloud engineer with experience in AWS, Terraform, Docker, Kubernetes and CI/CD pipelines. Skilled in infrastructure automation, container orchestration, and monitoring solutions. Passionate about improving deployment workflows and ensuring secure, scalable environments.
 
 ## 🛠️ My Skills
 
