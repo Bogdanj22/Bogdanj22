@@ -20,6 +20,10 @@ I focus on automating infrastructure, improving deployment workflows, and keepin
 
 ## 🧑‍💻 Let's Connect!
 Feel free to reach out to me:
-- [LinkedIn](https://www.linkedin.com/in/bogdan-jovanovic-a61380310/)
+<a href="https://www.linkedin.com/in/bogdan-jovanovic-a61380310/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<br/><br/>
 
 Looking forward to connecting and learning from other DevOps enthusiasts! 👨‍💻
