@@ -20,6 +20,8 @@ I focus on automating infrastructure, improving deployment workflows, and keepin
 
 ## 🧑‍💻 Let's Connect!
 Feel free to reach out to me:
+
+
 <a href="https://www.linkedin.com/in/bogdan-jovanovic-a61380310/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
