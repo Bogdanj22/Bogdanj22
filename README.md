@@ -27,5 +27,4 @@ Feel free to reach out to me:
 </a>
 
 <br/><br/>
-
 Looking forward to connecting and learning from other DevOps enthusiasts! 👨‍💻
