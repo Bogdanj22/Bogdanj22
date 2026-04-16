@@ -12,7 +12,7 @@ I focus on automating infrastructure, improving deployment workflows, and keepin
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,git,docker,ansible,terraform,jenkins,kubernetes,linux,windows,python,nginx,cicd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,git,docker,ansible,terraform,jenkins,kubernetes,linux,windows,python,nginx,ci/cd)](https://skillicons.dev)
 
 ![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg)
 
