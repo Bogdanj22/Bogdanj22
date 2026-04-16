@@ -7,7 +7,7 @@ I focus on automating infrastructure, improving deployment workflows, and keepin
 
 Here are some of the tools and technologies I've worked with:
 
-[![My Skills](https://skillicons.dev/icons?i=aws,git,docker,ansible,terraform,jenkins,kubernetes,linux,windows,python,nginx,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,git,docker,ansible,terraform,jenkins,kubernetes,linux,windows,python,nginx,gitlab)](https://skillicons.dev)
 
 ## 🧑‍💻 Let's Connect!
 Feel free to reach out to me:
