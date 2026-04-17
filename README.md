@@ -25,7 +25,11 @@ Feel free to reach out to me:
 
 
 <a href="https://www.linkedin.com/in/bogdan-jovanovic-a61380310/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.upwork.com/freelancers/~01686de618637e5d22" target="_blank">
+  <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
 </a>
 
 <br/><br/>
