@@ -24,7 +24,7 @@ I focus on automating infrastructure, improving deployment workflows, and keepin
 Feel free to reach out to me:
 
 
-<a href="https://www.linkedin.com/in/bogdan-jovanovic-a61380310/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="https://www.upwork.com/freelancers/~01686de618637e5d22" target="_blank">
+<a href="https://www.linkedin.com/in/bogdan-jovanovic-a61380310/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a>           <a href="https://www.upwork.com/freelancers/~01686de618637e5d22" target="_blank">
   <img src="https://cdn.simpleicons.org/upwork" height="40" />
 </a>
 
