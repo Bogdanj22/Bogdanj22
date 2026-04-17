@@ -18,7 +18,6 @@ I focus on automating infrastructure, improving deployment workflows, and keepin
 
 </div>
 
-## Let's Connect!
 Feel free to reach out to me:
 
 
