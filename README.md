@@ -28,11 +28,5 @@ Feel free to reach out to me:
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.upwork.com/freelancers/~01686de618637e5d22" target="_blank">
-  <img src="https://cdn.simpleicons.org/upwork" height="40" />
-</a>
-
 <br/><br/>
 Let's connect and discuss how I can help streamline your operations and accelerate your project's success!
