@@ -18,7 +18,7 @@ I focus on automating infrastructure, improving deployment workflows, and keepin
 
 </div>
 
-## 🧑‍💻 Let's Connect!
+## Let's Connect!
 Feel free to reach out to me:
 
 
@@ -27,4 +27,4 @@ Feel free to reach out to me:
 </a>
 
 <br/><br/>
-Let's connect and discuss how I can help streamline your operations and accelerate your project's success! 👨‍💻
+Let's connect and discuss how I can help streamline your operations and accelerate your project's success!
